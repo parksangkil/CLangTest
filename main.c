@@ -211,7 +211,8 @@ int main(void) {
     }*/
 
     int data_size = 3;
-    int data[data_size];
+    //int data[data_size];
+    int *p = (int *)malloc(data_size);
 
     return 0;
 }
