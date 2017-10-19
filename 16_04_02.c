@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main() {
+void main1() {
     int *p_num_list, count = 0, sum = 0, limit = 0, i;
 
     printf("사용할 최대 개수를 입력하세요 : ");
