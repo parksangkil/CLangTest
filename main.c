@@ -22,7 +22,7 @@ void Swap(int * const pa, int * const pb) {
     *pb = temp;
 }
 
-int main(void) {
+int main1(void) {
 
     //print(" Hello, World!\n");
     //printf("%d", key);
